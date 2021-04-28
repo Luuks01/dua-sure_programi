@@ -1,0 +1,23 @@
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.exe
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.deps.json
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.runtimeconfig.json
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.dll
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\ref\Dua-Sure Programı.dll
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\bin\Debug\net5.0-windows\Dua-Sure Programı.pdb
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Form1.resources
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Form2.resources
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Properties.Resources.resources
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.dll
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\ref\Dua-Sure Programı.dll
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.pdb
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua-Sure Programı.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Form3.resources
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Form4.resources
+C:\Users\Hp\source\repos\Dua-Sure Programı\Dua-Sure Programı\obj\Debug\net5.0-windows\Dua_Sure_Programı.Form5.resources
